@@ -1,8 +1,13 @@
 # Cloud-DevSecOps-Learning
 Collection of Cloud and DevSecOps learning resources
 
+## AWS credential
 
-Project 2: Reusable and clean Python code
+Use a non-root, named account with MFA
+
+## Projects
+
+### Project 2: Reusable and clean Python code
 
 prerequisite:
 
